@@ -33,10 +33,10 @@ leonardo.goto(-100,-20)
 
 # Part B - complete part B here
 leonardo.down()
-sides = 3
-for i in range(sides):
+for sides in [3, 4, 6, 9, 12]:
+  for shape in range(sides):
     leonardo.forward(50)
     leonardo.left(360/sides)
-    
+  leonardo.clear()
 
 window.exitonclick()
