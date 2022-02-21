@@ -18,6 +18,8 @@ michelangelo.goto(-100,20)
 leonardo.goto(-100,-20)
 
 ## 5. your code goes here
+leonardo.speed(1)
+michelangelo.speed(1)
 x = random.randrange(1,100)
 leonardo.forward(x)
 michelangelo.forward(x)
@@ -32,6 +34,7 @@ michelangelo.goto(-100,20)
 leonardo.goto(-100,-20)
 
 # Part B - complete part B here
+leonardo.speed(3)
 leonardo.down()
 for sides in [3, 4, 6, 9, 12]:
   for shape in range(sides):

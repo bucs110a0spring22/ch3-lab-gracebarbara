@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ In the first race of part A, I used the random module to generate a random value between 1 and 100 for each turtle to move forward. In the second race, I used the random module again, but this time also used a for loop to alternate the random distance that each turtle moves forward 10 times. In part B, I used another for loop to draw five polygons and calculate the angles of each shape based on the number of sides using the basic turtle commands and other simple python data.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ None
 
 ## REFERENCES:
- < List any outside resources used >
+ None
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ None
